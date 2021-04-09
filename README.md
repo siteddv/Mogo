@@ -5,11 +5,11 @@
 ###### I'm studying frontend and practice a lot. I made this landing for practical purposes
 
 ## Link
-[Link to the site](https://vino-gradom.github.io/mogo/)
+[Link to the site](https://vino-gradom.github.io/Mogo/)
 
 ## Quick setup
-###### HTTPS: https://github.com/vino-gradom/mogo.git
-###### SSH: git@github.com:vino-gradom/mogo.git
+###### HTTPS: https://github.com/vino-gradom/Mogo.git
+###### SSH: git@github.com:vino-gradom/Mogo.git
 
 ### Create a new repository on the command line
 ```git
@@ -18,13 +18,13 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M master
-git remote add origin https://github.com/vino-gradom/mogo.git
+git remote add origin https://github.com/vino-gradom/Mogo.git
 git push -u origin master
 ```
 
 ### ... or push an existing repository from the command line
 ```git
-git remote add origin https://github.com/vino-gradom/mogo.git
+git remote add origin https://github.com/vino-gradom/Mogo.git
 git branch -M master
 git push -u origin master
 ```

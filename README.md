@@ -22,4 +22,4 @@
 git clone https://github.com/vino-gradom/Mogo.git .
 ```
 
-### Have a nice experience with the repository!
+## Have a nice experience with the repository!

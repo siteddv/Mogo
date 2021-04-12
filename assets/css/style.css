@@ -210,3 +210,37 @@ h6 {
    height: 3px;
    z-index: 100;
 }
+
+/*Section
+===============*/
+.section {
+   margin: 90px auto;
+   text-align: center;
+}
+
+.section__suptitle {
+   color: #333333;
+   font-family: "Kaushan Script", cursive;
+   font-size: 24px;
+}
+
+.section__title {
+   color: #333333;
+   font-size: 30px;
+   text-transform: uppercase;
+   font-weight: 700;
+}
+
+.section__title::after {
+   content: "";
+   display: block;
+   width: 60px;
+   height: 3px;
+   margin: 30px auto;
+   background-color: #f38181;
+}
+
+.section__text {
+   color: #999999;
+   font-size: 15px;
+}

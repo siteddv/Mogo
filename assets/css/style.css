@@ -306,3 +306,38 @@ h6 {
 
    transition: opacity 0.2s linear;
 }
+
+/*Statistics
+===============*/
+.statistics {
+   background-color: #95e1d3;
+   margin: 80px 0;
+}
+
+.statistics__inner {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.statistics__item {
+   flex: 1 1 0;
+   text-align: center;
+   padding: 90px 20px;
+   border-left: rgba(255, 255, 255, 0.3) 1px solid;
+   color: #fff;
+}
+
+.statistics__item:last-child {
+   border-right: rgba(255, 255, 255, 0.3) 1px solid;
+}
+
+.statistics__num {
+   line-height: 1;
+   font-size: 72px;
+   font-weight: 700;
+}
+
+.statistics__text {
+   font-size: 14px;
+   text-transform: uppercase;
+}

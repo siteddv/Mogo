@@ -228,6 +228,7 @@ h6 {
 }
 
 .section--devices {
+   margin-bottom: 20px;
    padding-bottom: 0;
    background: url("../images/devices-bg.jpg") no-repeat center;
    background-size: cover;

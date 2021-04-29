@@ -235,6 +235,10 @@ h6 {
    -webkit-background-size: cover;
 }
 
+.section--gray {
+   background-color: #f8f8f8;
+}
+
 .section__header {
    margin: 90px auto;
    text-align: center;
@@ -625,4 +629,11 @@ h6 {
 .social__item:hover {
    color: #fff;
    background-color: #f38181;
+}
+
+/*Logos
+===============*/
+.logos {
+   display: flex;
+   justify-content: space-between;
 }

@@ -282,6 +282,11 @@ h6 {
    padding: 0 15px;
 }
 
+.card__inner {
+   position: relative;
+   background-color: #95e1d3;
+}
+
 .card__inner:hover .card__img {
    transform: translate3d(-10px, -10px, 0);
 }
@@ -292,11 +297,6 @@ h6 {
 
 .card__inner:hover .card__text {
    opacity: 1;
-}
-
-.card__inner {
-   position: relative;
-   background-color: #95e1d3;
 }
 
 .card__img {
@@ -328,6 +328,25 @@ h6 {
    transform: translate3d(0, -50%, 0);
 
    transition: opacity 0.2s linear;
+}
+
+.card__info {
+   margin-top: 30px;
+   text-align: center;
+}
+
+.card__name {
+   color: #333;
+   font-size: 14px;
+   text-transform: uppercase;
+}
+
+.card__prof {
+   color: #999;
+   font-size: 15px;
+   font-weight: 300;
+   font-style: italic;
+   line-height: 1.6;
 }
 
 /*Statistics

@@ -530,12 +530,13 @@ h6 {
 }
 
 .reviews__item {
-   padding-left: 205px;
+   padding-left: 255px;
    position: relative;
 }
 
 .reviews__photo {
    border: 2px solid #95e1d3;
+   border-radius: 50%;
 
    position: absolute;
    top: 0;
@@ -651,8 +652,6 @@ h6 {
 
 .works__item {
    position: relative;
-   max-width: 100%;
-   height: auto;
    background: linear-gradient(to bottom, #f38181, #fce38a);
 }
 
@@ -666,6 +665,8 @@ h6 {
 
 .works__img {
    display: block;
+   max-width: 100%;
+   height: auto;
    transition: opacity 0.2s linear;
 }
 

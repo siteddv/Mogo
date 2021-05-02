@@ -895,6 +895,14 @@ h6 {
    padding: 0 15px;
 }
 
+.footer__header {
+   font-family: "Montserrat", sans-serif;
+   color: #333;
+   font-size: 14px;
+   font-weight: 700;
+   margin-bottom: 35px;
+}
+
 .footer__logo {
    font-family: "Montserrat", sans-serif;
    color: #ccc;
@@ -908,7 +916,7 @@ h6 {
    font-size: 15px;
 }
 
-.footer__col--first {
+.footer__col--social {
    width: 40%;
 }
 
@@ -945,20 +953,13 @@ h6 {
    color: #95e1d3;
 }
 
-.footer__col--second {
-   width: 29%;
-}
-
-.footer__col--third {
-   width: 22%;
-}
-
 /* Subscribe
 ===============*/
 .subscribe {
    width: 100%;
    max-width: 380px;
    display: flex;
+   margin-top: 25px;
 }
 
 .subscribe__input {
@@ -1012,4 +1013,42 @@ h6 {
 
 .subscribe__btn:focus {
    outline: 0;
+}
+
+/* Blog
+===============*/
+.footer__col--blog {
+   width: 31%;
+}
+
+.blogs__item {
+   margin-bottom: 30px;
+   display: flex;
+   justify-content: row;
+   align-items: center;
+}
+
+.blogs__content {
+   margin-left: 20px;
+}
+
+.blogs__title {
+   font-family: "Montserrat", sans-serif;
+   font-size: 12px;
+   color: #333;
+   text-transform: uppercase;
+}
+
+.blogs__date {
+   margin-top: 5px;
+   font-size: 13px;
+   color: #999;
+   font-weight: 300;
+   font-style: italic;
+}
+
+/* Instagram
+===============*/
+.footer__col--third {
+   width: 22%;
 }

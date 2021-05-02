@@ -863,7 +863,7 @@ h6 {
    font-style: italic;
 }
 
-/*Map
+/* Map
 ===============*/
 .map__title {
    color: #f38181;
@@ -875,4 +875,141 @@ h6 {
 
 .map__header {
    margin-bottom: -50px;
+}
+
+/* Footer
+===============*/
+.footer {
+   padding-top: 65px;
+   color: #f8f8f8;
+}
+
+.footer__inner {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   margin: 0 -15px;
+}
+
+.footer__col {
+   padding: 0 15px;
+}
+
+.footer__logo {
+   font-family: "Montserrat", sans-serif;
+   color: #ccc;
+   font-size: 46px;
+   font-weight: 700;
+}
+
+.footer__text {
+   margin-top: 30px;
+   color: #999;
+   font-size: 15px;
+}
+
+.footer__col--first {
+   width: 40%;
+}
+
+.footer__social {
+   margin-top: 40px;
+}
+
+.footer__social-header {
+   font-family: "Montserrat", sans-serif;
+   color: #333;
+   font-size: 14px;
+   padding-bottom: 15px;
+   border-bottom: 1px solid #e5e5e5;
+}
+
+.footer__social-header b {
+   font-size: 18px;
+}
+
+.footer__social-content {
+   padding-top: 15px;
+   font-size: 15px;
+   color: #999;
+   font-weight: 300;
+   font-style: italic;
+}
+
+.footer__social-content a {
+   display: inline-block;
+   vertical-align: middle;
+   margin-left: 10px;
+
+   font-size: 18px;
+   color: #95e1d3;
+}
+
+.footer__col--second {
+   width: 29%;
+}
+
+.footer__col--third {
+   width: 22%;
+}
+
+/* Subscribe
+===============*/
+.subscribe {
+   width: 100%;
+   max-width: 380px;
+   display: flex;
+}
+
+.subscribe__input {
+   width: 60%;
+   height: 40px;
+   padding: 12px;
+
+   background: #fff;
+   border: 1px solid #e7e7e7;
+   border-right: 0;
+
+   font-family: "Montserrat", sans-serif;
+   font-size: 15px;
+   line-height: 1.1;
+   color: #333;
+   font-style: italic;
+   font-weight: 300;
+}
+
+.subscribe__input::placeholder {
+   color: #ccc;
+}
+
+.subscribe__input:focus {
+   outline: 0;
+   border-color: #95e1d3;
+}
+
+.subscribe__btn {
+   width: 40%;
+   height: 40px;
+   padding: 12px 30px;
+
+   background-color: #95e1d3;
+   border: 0;
+   cursor: pointer;
+
+   font-family: "Montserrat", sans-serif;
+   font-size: 14px;
+   line-height: 1.1;
+   font-weight: 700;
+   color: #fff;
+   text-transform: uppercase;
+
+   transition: background 0.2s linear;
+}
+
+.subscribe__btn:hover {
+   background-color: #74c7b8;
+}
+
+.subscribe__btn:focus {
+   outline: 0;
 }

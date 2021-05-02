@@ -246,7 +246,6 @@ h6 {
 }
 
 .section__header {
-   margin: 90px auto;
    text-align: center;
    margin: 0 auto 50px;
 }
@@ -862,4 +861,18 @@ h6 {
    color: #999;
    font-weight: 300;
    font-style: italic;
+}
+
+/*Map
+===============*/
+.map__title {
+   color: #f38181;
+}
+
+.section--map {
+   background: url("../images/map/map-bg.jpg") #e6e6e6;
+}
+
+.map__header {
+   margin-bottom: -50px;
 }

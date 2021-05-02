@@ -888,7 +888,9 @@ h6 {
    display: flex;
    flex-wrap: wrap;
    justify-content: space-between;
-   margin: 0 -15px;
+
+   padding-bottom: 70px;
+   border-bottom: 1px solid #e5e5e5;
 }
 
 .footer__col {
@@ -1049,6 +1051,43 @@ h6 {
 
 /* Instagram
 ===============*/
-.footer__col--third {
+.footer__col--instagram {
    width: 22%;
+}
+
+.instagram__photos {
+   display: flex;
+   justify-content: row;
+}
+
+.instagram__col {
+   margin-right: 2px;
+   display: flex;
+   flex-direction: column;
+}
+
+.instagram__item {
+   margin-bottom: 2px;
+}
+
+.instagram__more {
+   color: #333;
+   font-size: 13px;
+   margin-top: 20px;
+   font-weight: 300;
+   font-style: italic;
+}
+
+.footer__copyright {
+   width: 100%;
+   text-align: center;
+   font-family: "Montserrat", sans-serif;
+   font-size: 14px;
+   color: #333;
+   font-weight: 700;
+   padding: 20px 0;
+}
+
+.footer__copyright span {
+   color: #f38181;
 }

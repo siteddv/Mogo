@@ -1091,3 +1091,36 @@ h6 {
 .footer__copyright span {
    color: #f38181;
 }
+
+@media (max-width: 1230px) {
+   /*Intro*/
+   .intro__suptitle {
+      font-size: 52px;
+   }
+
+   .intro__title {
+      font-size: 120px;
+   }
+}
+
+@media (max-width: 990px) {
+   /*Intro*/
+   .intro__suptitle {
+      font-size: 32px;
+   }
+
+   .intro__title {
+      font-size: 80px;
+   }
+}
+
+@media (max-width: 770px) {
+   /*Intro*/
+   .intro__suptitle {
+      font-size: 22px;
+   }
+
+   .intro__title {
+      font-size: 40px;
+   }
+}

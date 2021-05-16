@@ -22,7 +22,6 @@ HTML, CSS, JavaScript, JQuery
 * [Download ZIP](https://github.com/vino-gradom/Mogo/archive/refs/heads/main.zip)
 
 ## Commit types
-### Possible types:
 * **feature:** used when adding new app-level functionality
 * **fix:** if you fixed some bug
 * **docs:** everything about documentation

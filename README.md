@@ -18,8 +18,8 @@ HTML, CSS, JavaScript, JQuery
 * Footer
 
 ## Links
-[Link to the site](https://github.com/vino-gradom/Mogo/blob/master/assets/images/interface_presentation.gif)
-[Download ZIP](https://github.com/vino-gradom/Mogo/archive/refs/heads/main.zip)
+* [Link to the site](https://github.com/vino-gradom/Mogo/blob/master/assets/images/interface_presentation.gif)
+* [Download ZIP](https://github.com/vino-gradom/Mogo/archive/refs/heads/main.zip)
 
 ## Commit types
 ### Possible types:

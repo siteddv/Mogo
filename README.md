@@ -23,10 +23,10 @@ HTML, CSS, JavaScript, JQuery
 
 ## Commit types
 ### Possible types:
-**feature:** used when adding new app-level functionality
-**fix:** if you fixed some bug
-**docs:** everything about documentation
-**style:** fix typos, fix formatting
+* **feature:** used when adding new app-level functionality
+* **fix:** if you fixed some bug
+* **docs:** everything about documentation
+* **style:** fix typos, fix formatting
 
 ## How to clone the repository to a local machine?
 1) Move to desired folder

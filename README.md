@@ -4,7 +4,7 @@
 Training landing page about some team that demonstrates the developer's skills at the moment. I'm studying frontend and practice a lot. I made this landing for practical purposes
 
 ## Mission
-The main mission of creation this SPA is to acquire practical skills of adaptive layout of a single-page website.
+The main mission of creation this landing page is to acquire practical skills of adaptive layout of a single-page website.
 
 ## Interface
 ###### This picture is in GIF format. If you want to look at the interface, please wait.
@@ -19,7 +19,7 @@ HTML, CSS, JavaScript, JQuery
 * Footer
 
 ## Links
-* [Link to the site](https://github.com/vino-gradom/Mogo/blob/master/assets/images/interface_presentation.gif)
+* [Link to the site](https://vino-gradom.github.io/Mogo/)
 * [Download ZIP](https://github.com/vino-gradom/Mogo/archive/refs/heads/main.zip)
 
 ## Commit types

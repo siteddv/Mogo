@@ -8,7 +8,7 @@ The main mission of creation this landing page is to acquire practical skills of
 
 ## Interface
 ###### This picture is in GIF format. If you want to look at the interface, please wait.
-![Landing interface](https://github.com/vino-gradom/Mogo/blob/master/assets/images/interface_presentation.gif)
+![Landing interface](https://github.com/siteddv/Mogo/blob/master/assets/images/interface_presentation.gif)
 
 ## Technologies used
 HTML, CSS, JavaScript, JQuery
@@ -19,8 +19,8 @@ HTML, CSS, JavaScript, JQuery
 * Footer
 
 ## Links
-* [Link to the site](https://vino-gradom.github.io/Mogo/)
-* [Download ZIP](https://github.com/vino-gradom/Mogo/archive/refs/heads/main.zip)
+* [Link to the site](https://siteddv.github.io/Mogo/)
+* [Download ZIP](https://github.com/siteddv/Mogo/archive/refs/heads/main.zip)
 
 ## Commit types
 * **feature:** used when adding new app-level functionality

@@ -32,7 +32,7 @@ HTML, CSS, JavaScript, JQuery
 1) Move to desired folder
 2) Type this git code
 ```git
-git clone https://github.com/vino-gradom/Mogo.git .
+git clone https://github.com/siteddv/Mogo.git .
 ```
 
 ## Have a nice experience with the repository!
